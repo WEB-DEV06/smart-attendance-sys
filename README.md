@@ -34,26 +34,23 @@ smart-attendance-system/
 │       └── attendance.js      ← Attendance APIs
 │
 ├── frontend/
-│   ├── public/
-│   │   ├── index.html
-│   │   └── models/            ← ⚠️ face-api.js weights go here
-│   ├── package.json
-│   └── src/
-│       ├── App.jsx            ← Root app with sidebar nav
-│       ├── index.js
-│       ├── index.css          ← Global dark theme styles
-│       ├── utils/
-│       │   ├── api.js         ← Axios API helpers
-│       │   └── sound.js       ← Audio feedback utility
-│       └── pages/
-│           ├── Dashboard.jsx
-│           ├── RegisterStudent.jsx
-│           ├── MarkAttendance.jsx
-│           ├── ViewRecords.jsx
-│           └── ManageStudents.jsx
-│
-├── setup.bat                  ← Run this first (installs everything)
-└── start.bat                  ← Run this to launch the app
+    ├── public/
+    │   ├── index.html
+    │   └── models/            ← ⚠️ face-api.js weights go here
+    ├── package.json
+    └── src/
+        ├── App.jsx            ← Root app with sidebar nav
+        ├── index.js
+        ├── index.css          ← Global dark theme styles
+        ├── utils/
+        │   ├── api.js         ← Axios API helpers
+        │   └── sound.js       ← Audio feedback utility
+        └── pages/
+            ├── Dashboard.jsx
+            ├── RegisterStudent.jsx
+            ├── MarkAttendance.jsx
+            ├── ViewRecords.jsx
+            └── ManageStudents.jsx
 ```
 
 ---
