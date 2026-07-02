@@ -1,4 +1,4 @@
-# AttendIQ – Smart Attendance System v2.5.3
+# AttendIQ – Smart Attendance System v1.5.2
 
 A modern web-based Smart Attendance System with **real-time face recognition**, built with React, Node.js, Express, MongoDB, and face-api.js.
 
